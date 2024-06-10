@@ -1,6 +1,6 @@
-# Hi there 👋
+ # Hi there 👋
  My name is João Pedro Holanda Amorim 
- ## Technologies  icons/gulp/gulp-plain.svg
+ ## Technologies 
 
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
