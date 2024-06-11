@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+ 
  # Hi there 👋
  My name is João Pedro Holanda Amorim 
  ## Technologies 
