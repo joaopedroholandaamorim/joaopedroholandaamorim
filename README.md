@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
  
  # Hi there 👋
  My name is João Pedro Holanda Amorim 
