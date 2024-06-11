@@ -11,6 +11,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="jquery logo"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"/> 
  </div>
+
+  <div> 
+    <h2> Contacts </h2>
+    <a href = "joaopedroholandaamorim@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/joão-pedro-holanda-224b72264/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
 <!--
 **joaopedroholandaamorim/joaopedroholandaamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
