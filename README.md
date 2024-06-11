@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=joaopedroholandaamorim&color=dc143c)
+![](https://komarev.com/ghpvc/?username=joaopedroholandaamorim&color=12261E)
  
  # Hi there 👋
  My name is João Pedro Holanda Amorim 
